@@ -1,0 +1,78 @@
+/* -------------Header custom css---------- */
+#header{
+    background-color: #264653;;
+}
+.header-bike{
+    width: 400px;
+    height: 400px;
+}
+.purchase-button{
+    background-color: #FF6F38;
+    color: #FFFF;
+    padding: 10px 46px;
+}
+.pera-1{
+    color: #FFFF;
+    font-size: 14px;
+}
+.heading-1{
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 600;
+}
+.pera-2{
+    color:#E0E0E0;
+    font-size: 16px;
+}
+/* ---------------Feature BIke 2021--------------- */
+.main-feture{
+    text-align: center;
+}
+.heading-3{
+    color:#000000;
+    font-size: 48px;
+    font-weight: 600;
+
+}
+.pera-3{
+    color:#E76F51;
+    font-size: 14px;
+    font-weight: 600;
+}
+.feature-bike{
+    width: 288px;
+    height: 243px;
+}
+.color-1{
+    filter: grayscale(100%);
+}
+/* ---------------Happy Clints Says--------------- */
+.heading-4{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+}
+.card-size{
+    width: 149px;
+    height: 190px;
+    padding-top: 40px;
+}
+.main-card{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    padding-left: 100px;
+    color:#E77C40;
+}
+/* -----------------Frequently Asked Question---------------- */
+.image-size{
+Width: 395px;px;
+Height: 400.5px
+}
+.button-size{
+    font-size: 20px;
+    font-weight: 600;
+    color:#383838;
+;
+}
